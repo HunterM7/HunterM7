@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HunterM7 | Vk" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1635843364~hmac=ec063fa65a2cca8150fec22cf0312de2" />][https://vk.com/hunterxgod]
+[<img align="left" alt="HunterM7 | Vk" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1635843364~hmac=ec063fa65a2cca8150fec22cf0312de2" />][vk]
 
 <br />
 
@@ -76,8 +76,8 @@
 
 </details>
 
+[vk]: https://vk.com/hunterxgod
 [github]: https://github.com/HunterM7
-[course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
