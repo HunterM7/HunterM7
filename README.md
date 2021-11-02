@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="Visual Studio Code" width="26px" cursor="default" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -41,19 +41,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [API Crash Course - Integrate, Build, & Sell an API $$$ (EASY!)](https://www.youtube.com/watch?v=FMJwaA2WMjc)
-- [#TeamSeas - Let's Clean up our Oceans!! 🌊 #Shorts](https://www.youtube.com/watch?v=XyIXjjEW56w)
-- [Secret Mr. Beast Video Collab!!](https://www.youtube.com/watch?v=0sxnQCfJL2g)
-- [STACKr News Weekly: Make $10k on Etsy 💲, Build Candy Crush in React 🍭, Use VS Code on ANY Device! 🤯](https://www.youtube.com/watch?v=JOWeVhSz_bY)
-- [vscode.dev - VS Code In The Browser!!](https://www.youtube.com/watch?v=-5TFQjzEK-8)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
----
 
 ### 📕 Latest Blog Posts
 
