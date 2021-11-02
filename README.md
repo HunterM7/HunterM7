@@ -15,6 +15,8 @@
 
 [<img align="left" alt="HunterM7 | Vk" width="22px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670055.png?token=exp=1635843364~hmac=ec063fa65a2cca8150fec22cf0312de2" />][vk]
 
+[<img align="left" alt="HunterM7 | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
+
 <br />
 
 ### Languages and Tools:
@@ -77,6 +79,7 @@
 </details>
 
 [vk]: https://vk.com/hunterxgod
+[telegram]: https://t.me/HunterM7
 [github]: https://github.com/HunterM7
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
