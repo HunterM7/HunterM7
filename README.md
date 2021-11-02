@@ -8,6 +8,10 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
+</br>
+
+---
+
 ### Connect with me:
 
 [<img align="left" alt="HunterM7 | Vk" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" />][vk]
@@ -15,6 +19,8 @@
 [<img align="left" alt="HunterM7 | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 
 <br />
+
+---
 
 ### Languages and Tools:
 
@@ -27,6 +33,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />][github]
 
 <br />
+
+---
 
 ### My achievements:
 
