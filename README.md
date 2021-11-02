@@ -28,8 +28,6 @@
 
 <br />
 
----
-
 ### My achievements:
 
 [![Website](https://www.codewars.com/users/HunterM7/badges/large)](https://www.codewars.com/users/HunterM7/)
