@@ -10,8 +10,6 @@
 
 </br>
 
----
-
 ### Connect with me:
 
 [<img align="left" alt="HunterM7 | Vk" width="22px" src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" />][vk]
@@ -39,8 +37,6 @@
 ### My achievements:
 
 [![Website](https://www.codewars.com/users/HunterM7/badges/large)](https://www.codewars.com/users/HunterM7/)
-
----
 
 [vk]: https://vk.com/hunterxgod
 [telegram]: https://t.me/HunterM7
