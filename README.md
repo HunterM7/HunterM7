@@ -1,9 +1,7 @@
-## 101!
-### I'm not Neo, but the Matrix has me... 🕶
+# 101!
+## I'm not Neo, but the Matrix has me... 🕶
 
-
-
-## My name is Anton and I'm learning Front-End!
+### My name is Anton and I'm learning Front-End!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
