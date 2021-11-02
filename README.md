@@ -27,7 +27,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" />][github]
 
 <br />
-<br />
+
+### My achievements:
 
 [![Website](https://www.codewars.com/users/HunterM7/badges/large)](https://www.codewars.com/users/HunterM7/)
 
