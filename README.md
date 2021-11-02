@@ -1,10 +1,10 @@
-## 101! </br> I'm not Neo, but the Matrix has me... 👓
+## 101! </br> I'm not Neo, but the Matrix has me... 💊
 
 ### My name is Anton and I'm learning Front-End!
 
 - 🇷🇺 I’m from Russia, Moscow
 - ✊ I’m very motivated to learn HTML, CSS and JavaScript!
-- 🖥 I’m trying to learn everything related to this
+- 👨‍💻 I’m trying to learn everything related to this
 - 🧘‍♂️ One of my dreams is to move to Europe or America
 
 ### Connect with me:
