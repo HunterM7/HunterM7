@@ -1,4 +1,4 @@
-## 101! </br> I'm not Neo, but the Matrix has me... 💊
+## 101!
 
 ### My name is Anton and I'm learning Front-End!
 
