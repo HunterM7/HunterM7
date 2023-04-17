@@ -42,10 +42,10 @@
 
 [![Website](https://www.codewars.com/users/HunterM7/badges/large)](https://www.codewars.com/users/HunterM7/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterm7&show_icons=true&theme=dark)
+[<img align="left" alt="TypeScript" height="100px" src="https://github-readme-stats.vercel.app/api?username=hunterm7&show_icons=true&theme=dark" />][github]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true)](https://github.com/HunterM7)
-
+[<img align="left" alt="TypeScript" height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true" />][github]
+  
 [vk]: https://vk.com/hunterxgod
 [telegram]: https://t.me/HunterM7
 [github]: https://github.com/HunterM7
