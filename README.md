@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="HunterM7 | Telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
+[<img align="left" alt="HunterM7 | Telegram" height="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 
 <br />
 
@@ -17,23 +17,23 @@
 
 [<img align="left" alt="HTML5" height="28px" src="icons/HTML.svg" />][github]
 
-[<img align="left" alt="Pug" width="26px" src="https://imgur.com/FiNDmPz.png" />][github]
+[<img align="left" alt="Pug" height="28px" src="icons/PUG.svg" />][github]
 
-[<img align="left" alt="CSS3" width="26px" src="icons/CSS.svg" />][github]
+[<img align="left" alt="CSS3" height="28px" src="icons/CSS.svg" />][github]
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
+[<img align="left" alt="Sass" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
+[<img align="left" alt="JavaScript" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 
-[<img align="left" alt="TypeScript" width="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" />][github]
+[<img align="left" alt="TypeScript" height="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" />][github]
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
+[<img align="left" alt="React" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 
-[<img align="left" alt="Redux" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />][github]
+[<img align="left" alt="Redux" height="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />][github]
 
-[<img align="left" alt="Visual Studio Code" width="26px" cursor="default" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+[<img align="left" alt="Visual Studio Code" height="28px" cursor="default" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
 
-[<img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" />][github]
+[<img align="left" alt="GitHub" height="28px" src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" />][github]
 
 <br />
 
