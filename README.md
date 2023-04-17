@@ -2,10 +2,10 @@
 
 ### My name is Anton and I'm learning Front-End!
 
-🏡 I’m from Russia, Moscow
-✊ I’m very motivated to work in the Front-end!
-👨‍💻 I’m trying to learn everything related to this
-🧘‍♂️ One of my dreams is to move to Europe or America
+- 🏡 I’m from Russia, Moscow
+- ✊ I’m very motivated to work in the Front-end!
+- 👨‍💻 I’m trying to learn everything related to this
+- 🧘‍♂️ One of my dreams is to move to Europe or America
 
 ### Contact me:
 
