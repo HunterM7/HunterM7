@@ -29,11 +29,11 @@
 
 [<img align="left" alt="React" height="28px" src="icons/React.svg" />][github]
 
-[<img align="left" alt="Redux" height="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" />][github]
+[<img align="left" alt="Redux" height="28px" src="icons/Redux.svg" />][github]
 
-[<img align="left" alt="Visual Studio Code" height="28px" cursor="default" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][github]
+[<img align="left" alt="Visual Studio Code" height="28px" cursor="default" src="icons/VSCode.svg" />][github]
 
-[<img align="left" alt="GitHub" height="28px" src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" />][github]
+[<img align="left" alt="GitHub" height="28px" src="icons/Github.svg" />][github]
 
 <br />
 
