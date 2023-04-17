@@ -2,7 +2,7 @@
 
 ### My name is Anton and I'm learning Front-End!
 
-- 🇷🇺 I’m from Russia, Moscow
+- 🏡 :house_with_garden: I’m from Russia, Moscow
 - ✊ I’m very motivated to learn HTML, CSS and JavaScript!
 - 👨‍💻 I’m trying to learn everything related to this
 - 🧘‍♂️ One of my dreams is to move to Europe or America
