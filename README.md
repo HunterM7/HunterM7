@@ -25,7 +25,6 @@
 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
 
-
 [<img align="left" alt="TypeScript" width="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" />][github]
 
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
@@ -42,10 +41,10 @@
 
 [![Website](https://www.codewars.com/users/HunterM7/badges/large)](https://www.codewars.com/users/HunterM7/)
 
-[<img align="left" alt="TypeScript" height="180px" src="https://github-readme-stats.vercel.app/api?username=hunterm7&show_icons=true&theme=dark" />][github]
+[<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api?username=hunterm7&show_icons=true&theme=dark" />][github]
 
-[<img align="left" alt="TypeScript" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true&theme=dark" />][github]
-  
+[<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true&theme=dark" />][github]
+
 [vk]: https://vk.com/hunterxgod
 [telegram]: https://t.me/HunterM7
 [github]: https://github.com/HunterM7
