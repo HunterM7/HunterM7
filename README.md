@@ -21,11 +21,11 @@
 
 [<img align="left" alt="CSS3" height="28px" src="icons/CSS.svg" />][github]
 
-[<img align="left" alt="Sass" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][github]
+[<img align="left" alt="Sass" height="28px" src="icons/Sass.svg" />][github]
 
-[<img align="left" alt="JavaScript" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
+[<img align="left" alt="JavaScript" height="28px" src="icons/JS.svg" />][github]
 
-[<img align="left" alt="TypeScript" height="28px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_plain_logo_icon_146316.png" />][github]
+[<img align="left" alt="TypeScript" height="28px" src="icons/TS.svg" />][github]
 
 [<img align="left" alt="React" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][github]
 
