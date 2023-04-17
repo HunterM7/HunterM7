@@ -42,7 +42,7 @@
 
 [![Website](https://www.codewars.com/users/HunterM7/badges/large)](https://www.codewars.com/users/HunterM7/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterm7&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hunterm7&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true)](https://github.com/HunterM7)
 
