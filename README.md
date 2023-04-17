@@ -42,6 +42,8 @@
 
 [![Website](https://www.codewars.com/users/HunterM7/badges/large)](https://www.codewars.com/users/HunterM7/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true)](https://github.com/HunterM7)
+
 [vk]: https://vk.com/hunterxgod
 [telegram]: https://t.me/HunterM7
 [github]: https://github.com/HunterM7
