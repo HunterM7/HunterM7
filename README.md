@@ -15,7 +15,9 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" height="28px" src="https://raw.githubusercontent.com/HunterM7/HunterM7/master/icons/HTML.svg" />
+[<img align="left" alt="HTML5" height="28px" src="https://raw.githubusercontent.com/HunterM7/HunterM7/master/icons/HTML.svg" />][github]
+
+[<img align="left" alt="HTML5" height="28px" src="./icons/HTML.svg" />][github]
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
 
@@ -47,6 +49,5 @@
 
 [<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true&theme=dark" />][github]
 
-[vk]: https://vk.com/hunterxgod
 [telegram]: https://t.me/HunterM7
 [github]: https://github.com/HunterM7
