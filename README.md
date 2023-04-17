@@ -7,7 +7,7 @@
 - 👨‍💻 I’m trying to learn everything related to this
 - 🧘‍♂️ One of my dreams is to move to Europe or America
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="HunterM7 | Telegram" height="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 
