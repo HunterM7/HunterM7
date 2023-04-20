@@ -1,6 +1,6 @@
 ## 101!
 
-```javascript
+```typescript
 const user = {
   name: 'Anton Meshchaninov',
   gender: 'male',
