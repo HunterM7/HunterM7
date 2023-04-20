@@ -1,28 +1,24 @@
 ## 101!
 
-### My name is Anton and I'm learning Front-End!
-
-- 🏡 I’m from Russia, Moscow
-- ✊ I’m very motivated to work in the Front-end!
-- 👨‍💻 I’m trying to learn everything related to this
-- 🧘‍♂️ One of my dreams is to move to Europe or America
-
 ```javascript
 const user = {
   name: 'Anton Meshchaninov',
   gender: 'male',
   height: 178,
   age: 30,
+  readyToMove: true,
+  currentLocation: 'Russia, Moscow',
+  targetLocation: ['Europe', 'North America'],
   languages: ['HTML', 'CSS/SASS', 'Javascript', 'Typescript'],
   technologies: {
     frontEnd: {
       framework: 'React',
       stateManager: ['Redux', 'Redux Toolkit'],
-      libs: ['react-router-dom', 'dnd', 'Express'],
+      libs: ['react-router-dom', 'react-dnd', 'react-scroll'],
       tests: ['jest', 'cypress'],
       connection: ['HTTP', 'WebSocket', 'REST API (CRUD)'],
     },
-    linter: 'Eslint',
+    linters: ['Eslint', 'Prettier'],
     layout: ['Figma', 'Photoshop'],
   },
   standards: ['DRY', 'KISS', 'SOLID'],
