@@ -27,7 +27,10 @@ const user = {
 
 ### Contact me:
 
-[<img align="left" alt="HunterM7 | Telegram" height="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
+[<img align="left" alt="Telegram" height="28px" src="icons/Telegram.svg" />][telegram]
+
+<!-- hh -->
+<!-- linkedin -->
 
 <br />
 
