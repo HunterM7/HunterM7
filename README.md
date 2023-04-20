@@ -10,30 +10,22 @@
 ```javascript
 const user = {
   name: 'Anton Meshchaninov',
-  age: 30,
-  height: 178,
   gender: 'male',
-  code: ['React', 'Redux', 'Javascript', 'Typescript', 'HTML', 'CSS', 'SASS'],
-  askMeAbout: ['web dev', 'tech', 'app dev', 'photography'],
-  // technologies: {
-  //   backEnd: {
-  //     js: ['Node', 'Fastify', 'Express'],
-  //   },
-  //   mobileApp: {
-  //     native: ['Android Development'],
-  //   },
-  //   devOps: ['AWS', 'Docker🐳', 'Route53', 'Nginx'],
-  //   databases: ['mongo', 'MySql', 'sqlite'],
-  //   misc: ['Firebase', 'Socket.IO', 'selenium', 'open-cv', 'php', 'SuiteApp'],
-  // },
-  // architecture: [
-  //   'Serverless Architecture',
-  //   'Progressive web applications',
-  //   'Single page applications',
-  // ],
-  // currentFocus: 'No Focus point at this time',
-  // funFact:
-  //   'There are two ways to write error-free programs; only the third one works',
+  height: 178,
+  age: 30,
+  languages: ['HTML', 'CSS/SASS', 'Javascript', 'Typescript'],
+  technologies: {
+    frontEnd: {
+      framework: 'React',
+      stateManager: ['Redux', 'Redux Toolkit'],
+      libs: ['react-router-dom', 'dnd', 'Express'],
+      tests: ['jest', 'cypress'],
+      connection: ['HTTP', 'WebSocket', 'REST API (CRUD)'],
+    },
+    linter: 'Eslint',
+    layout: ['Figma', 'Photoshop'],
+  },
+  standards: ['DRY', 'KISS', 'SOLID'],
 }
 ```
 
