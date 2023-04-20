@@ -12,28 +12,28 @@ const user = {
   name: 'Anton Meshchaninov',
   age: 30,
   height: 178,
-  gender: 'Male',
-  code: ['Javascript', 'HTML', 'CSS', 'SASS'],
+  gender: 'male',
+  code: ['React', 'Redux', 'Javascript', 'Typescript', 'HTML', 'CSS', 'SASS'],
   askMeAbout: ['web dev', 'tech', 'app dev', 'photography'],
-  technologies: {
-    backEnd: {
-      js: ['Node', 'Fastify', 'Express'],
-    },
-    mobileApp: {
-      native: ['Android Development'],
-    },
-    devOps: ['AWS', 'Docker🐳', 'Route53', 'Nginx'],
-    databases: ['mongo', 'MySql', 'sqlite'],
-    misc: ['Firebase', 'Socket.IO', 'selenium', 'open-cv', 'php', 'SuiteApp'],
-  },
-  architecture: [
-    'Serverless Architecture',
-    'Progressive web applications',
-    'Single page applications',
-  ],
-  currentFocus: 'No Focus point at this time',
-  funFact:
-    'There are two ways to write error-free programs; only the third one works',
+  // technologies: {
+  //   backEnd: {
+  //     js: ['Node', 'Fastify', 'Express'],
+  //   },
+  //   mobileApp: {
+  //     native: ['Android Development'],
+  //   },
+  //   devOps: ['AWS', 'Docker🐳', 'Route53', 'Nginx'],
+  //   databases: ['mongo', 'MySql', 'sqlite'],
+  //   misc: ['Firebase', 'Socket.IO', 'selenium', 'open-cv', 'php', 'SuiteApp'],
+  // },
+  // architecture: [
+  //   'Serverless Architecture',
+  //   'Progressive web applications',
+  //   'Single page applications',
+  // ],
+  // currentFocus: 'No Focus point at this time',
+  // funFact:
+  //   'There are two ways to write error-free programs; only the third one works',
 }
 ```
 
