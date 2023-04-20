@@ -29,6 +29,8 @@ const user = {
 
 [<img align="left" alt="HunterM7 | Telegram" height="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
 
+<br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" height="28px" src="icons/HTML.svg" />][github]
