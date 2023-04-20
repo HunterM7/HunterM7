@@ -7,11 +7,39 @@
 - 👨‍💻 I’m trying to learn everything related to this
 - 🧘‍♂️ One of my dreams is to move to Europe or America
 
+```javascript
+const user = {
+  name: 'Anton Meshchaninov',
+  age: 30,
+  height: 178,
+  gender: 'Male',
+  code: ['Javascript', 'HTML', 'CSS', 'SASS'],
+  askMeAbout: ['web dev', 'tech', 'app dev', 'photography'],
+  technologies: {
+    backEnd: {
+      js: ['Node', 'Fastify', 'Express'],
+    },
+    mobileApp: {
+      native: ['Android Development'],
+    },
+    devOps: ['AWS', 'Docker🐳', 'Route53', 'Nginx'],
+    databases: ['mongo', 'MySql', 'sqlite'],
+    misc: ['Firebase', 'Socket.IO', 'selenium', 'open-cv', 'php', 'SuiteApp'],
+  },
+  architecture: [
+    'Serverless Architecture',
+    'Progressive web applications',
+    'Single page applications',
+  ],
+  currentFocus: 'No Focus point at this time',
+  funFact:
+    'There are two ways to write error-free programs; only the third one works',
+}
+```
+
 ### Contact me:
 
 [<img align="left" alt="HunterM7 | Telegram" height="28px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />][telegram]
-
-<br />
 
 ### Languages and Tools:
 
