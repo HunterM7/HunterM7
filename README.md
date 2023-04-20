@@ -29,9 +29,9 @@ const user = {
 
 [<img align="left" alt="Telegram" height="28px" src="icons/Telegram.svg" />][telegram]
 
-[<img align="left" alt="HeadHunter" height="28px" src="icons/HH.svg" />][hh]
-
 [<img align="left" alt="LinkedIn" height="28px" src="icons/LinkedIn.svg" />][linkedin]
+
+[<img align="left" alt="HeadHunter" height="28px" src="icons/HH.svg" />][hh]
 
 <br />
 
@@ -68,6 +68,6 @@ const user = {
 [<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true&theme=dark" />][github]
 
 [telegram]: https://t.me/HunterM7
-[hh]: https://hh.ru/resume/dcbb2513ff0b3521630039ed1f4e49706b5745
 [linkedin]: https://www.linkedin.com/in/anton-meshchaninov/
+[hh]: https://hh.ru/resume/dcbb2513ff0b3521630039ed1f4e49706b5745
 [github]: https://github.com/HunterM7
