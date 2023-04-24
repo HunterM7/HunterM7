@@ -25,6 +25,33 @@ const user = {
 }
 ```
 
+```javascript
+const user = {
+  name: 'Anton Meshchaninov',
+  gender: 'male',
+  height: 178,
+  age: 30,
+  readyToMove: true,
+  currentLocation: 'Russia, Moscow',
+  targetLocation: ['Europe', 'North America'],
+}
+
+const technologies = {
+  languages: ['HTML', 'CSS/SASS', 'Javascript', 'Typescript'],
+  frontEnd: {
+    framework: 'React',
+    stateManager: ['Redux', 'Redux Toolkit'],
+    libs: ['react-router-dom', 'react-dnd', 'react-scroll'],
+    tests: ['jest', 'cypress'],
+    connection: ['HTTP', 'WebSocket', 'REST API (CRUD)'],
+  },
+  linters: ['Eslint', 'Prettier'],
+  layout: ['Figma', 'Photoshop'],
+}
+
+const standards = ['DRY', 'KISS', 'SOLID']
+```
+
 ### Contact me:
 
 [<img align="left" alt="Telegram" height="28px" src="icons/Telegram.svg" />][telegram]
