@@ -14,11 +14,11 @@ const user = {
 const technologies = {
   languages: ['HTML', 'CSS/SASS', 'Javascript', 'Typescript'],
   frontEnd: {
-    framework: 'React',
-    stateManager: ['Redux', 'Redux Toolkit'],
+    frameworks: 'React',
+    stateManagers: ['Redux', 'Redux Toolkit'],
     libs: ['react-router-dom', 'react-dnd', 'react-scroll'],
     tests: ['jest', 'cypress'],
-    connection: ['HTTP', 'WebSocket', 'REST API (CRUD)'],
+    connections: ['HTTP', 'WebSocket', 'REST API (CRUD)'],
   },
   linters: ['Eslint', 'Prettier'],
   layout: ['Figma', 'Photoshop'],
