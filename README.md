@@ -5,7 +5,7 @@ const user = {
   name: 'Anton Meshchaninov',
   gender: 'male',
   height: 178,
-  age: 30,
+  age: 31,
   readyToMove: true,
   currentLocation: 'Russia, Moscow',
   targetLocation: ['Europe', 'North America'],
