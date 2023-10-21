@@ -15,8 +15,8 @@ const technologies = {
   languages: ['HTML', 'CSS/SASS', 'Javascript', 'Typescript'],
   frontEnd: {
     frameworks: 'React',
-    stateManagers: ['Redux', 'Redux Toolkit'],
-    libs: ['react-router-dom', 'react-dnd', 'react-scroll'],
+    stateManagers: ['Redux', 'Redux Toolkit', 'Zustand'],
+    libs: ['axios', 'react-router-dom', 'react-dnd', 'react-scroll'],
     tests: ['jest', 'cypress'],
     connections: ['HTTP', 'WebSocket', 'REST API (CRUD)'],
   },
