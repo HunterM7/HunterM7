@@ -69,7 +69,7 @@ const standards = ['DRY', 'KISS', 'SOLID']
 
 [<img align="left" alt="TypeScript" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunterm7&hide_progress=true&theme=dark" />][github]
 
-[telegram]: https://t.me/HunterM7
+[telegram]: https://t.me/tonyxdev
 [linkedin]: https://www.linkedin.com/in/anton-meshchaninov/
 [hh]: https://hh.ru/resume/dcbb2513ff0b3521630039ed1f4e49706b5745
 [github]: https://github.com/HunterM7
