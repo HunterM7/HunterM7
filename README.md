@@ -4,11 +4,7 @@
 const user = {
   name: 'Anton Meshchaninov',
   gender: 'male',
-  height: 178,
-  age: 31,
-  readyToMove: true,
-  currentLocation: 'Russia, Moscow',
-  targetLocation: ['Europe', 'North America'],
+  currentLocation: 'Russia, Moscow'
 }
 
 const technologies = {
@@ -23,8 +19,6 @@ const technologies = {
   linters: ['Eslint', 'Prettier'],
   layout: ['Figma', 'Photoshop'],
 }
-
-const standards = ['DRY', 'KISS', 'SOLID']
 ```
 
 ### Contact me:
